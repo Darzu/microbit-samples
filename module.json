@@ -4,7 +4,7 @@
   "description": "The micro:bit runtime common abstraction with examples.",
   "license": "MIT",
   "dependencies": {
-    "microbit": "darzu/microbit"
+    "microbit": "darzu/microbit#master"
   },
   "targetDependencies": {},
   "bin": "./source"
