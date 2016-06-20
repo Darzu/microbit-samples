@@ -1,5 +1,6 @@
 {
   "build": {
-    "target": "bbc-microbit-classic-gcc,*"
+    "target": "nrf51dk-gcc,*",
+    "targetSetExplicitly": true
   }
 }
